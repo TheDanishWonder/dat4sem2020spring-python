@@ -4,7 +4,7 @@
 
 |Week|Topic|Hand-in|
 |--|--|--|
-|Week 5<br/>27-01-2020|Getting started, Python language features|[Ex 1](https://github.com/TheDanishWonder/dat4sem2020spring-python/blob/master/01%20class%20exercise.ipynb)|
+|Week 5<br/>27-01-2020|Getting started, Python language features|[Ex 1](https://github.com/TheDanishWonder/dat4sem2020spring-python/blob/master/01-exercises.ipynb)|
 |Week 6<br/>03-02-2020|Whirlwind, Lists, Loops, Cond. Stmts., Functions, Modules, Dicts|NaN|
 |Week 7<br/>10-02-2020|Files, CLI, OO, Exceptions|NaN|
 |Week 8<br/>17-02-2020|Intro to Plotting|NaN|
